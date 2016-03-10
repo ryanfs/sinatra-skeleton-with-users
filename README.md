@@ -1,3 +1,10 @@
+### Instructions
+bundle exec rake db:create
+ -- update User migration
+bundle exec rake db:migrate
+ 
+
+
 > **Note**: This branch (master) contains a skeleton without any app code, perfect for creating a _new_ application or challenge. If you're looking for an example app built with this skeleton, take a look at the [example](/../..//tree/example) branch which includes basic CRUD and RSpec tests.
 
 ### Purpose
